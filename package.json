@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/velcrin/mixit16/issues"
   },
-  "homepage": "https://github.com/velcrin/mixit16#readme"
+  "homepage": "https://github.com/velcrin/mixit16#readme",
+  "dependencies": {
+    "font-awesome": "^4.5.0",
+    "hammerjs": "^2.0.6",
+    "highlightjs": "^8.7.0",
+    "jquery": "^2.2.2",
+    "keymaster": "^1.6.2",
+    "normalize.css": "^4.0.0",
+    "ruban": "loicfrering/ruban"
+  }
 }
