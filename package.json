@@ -1,0 +1,19 @@
+{
+  "name": "mixit16",
+  "version": "1.0.0",
+  "description": "Keep calm and send a Pull Request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/velcrin/mixit16.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/velcrin/mixit16/issues"
+  },
+  "homepage": "https://github.com/velcrin/mixit16#readme"
+}
