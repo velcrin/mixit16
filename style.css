@@ -30,11 +30,52 @@ blockquote cite a {
     color: #0000EE;
 }
 
+.Introduction:before {
+    content: "";
+
+    position: absolute;
+    height: 100%;
+    left: 0;
+    right: 0;
+    background: url('images/ui-designer.png') no-repeat bottom center;
+    background-size: 70%;
+
+    overflow: hidden;
+
+    -webkit-filter: drop-shadow(0px -5px 20px);
+    filter: drop-shadow(0px -5px 20px);
+
+    animation-duration: 1s;
+    animation-name: slideInUp;
+}
+
 .Introduction {
     font-size: .5em;
+    padding: 0 !important;
 }
 
 .Introduction-speaker {
     float: left;
     margin-right: 1em;
+
+}
+
+.Speaker-colin {
+    background: url('images/colin.jpg') no-repeat 1em 1em;
+    padding-left: 3.5em;
+    background-size: 2em;
+}
+
+.Speaker-vincent {
+    background: url('images/vincent.jpg') no-repeat 1em 1em;
+    padding-left: 3.5em;
+    background-size: 2em;
+}
+
+.Introduction-designer {
+    display: block;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 60%;
 }
