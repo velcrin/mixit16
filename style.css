@@ -60,6 +60,16 @@ blockquote cite a {
 
 }
 
+.Workflow {
+    background: url("img/workflow.png") no-repeat center;
+    background-size: 95%;
+}
+
+.Workflow-Title {
+    margin: 0;
+    text-align: center;
+}
+
 .Speaker-colin {
     background: url('images/colin.jpg') no-repeat 1em 1em;
     padding-left: 3.5em;
