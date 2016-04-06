@@ -67,6 +67,11 @@ blockquote cite a {
     color: #0000EE;
 }
 
+.Title {
+    background-color: #434343;
+    color: #EEEEEE;
+}
+
 .Title-icon {
     display: block;
     font-size: 1.2em;
