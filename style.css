@@ -167,3 +167,7 @@ blockquote cite a {
 .Team-contact dd {
     margin: 0;
 }
+
+.ProductDiscussion, .ProductDiscussionDetails {
+    background-color: #FFCC80;
+}
