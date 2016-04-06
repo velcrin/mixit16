@@ -173,6 +173,11 @@ blockquote cite a {
     margin: 0;
 }
 
+.CodeDiscussionTitle, .CodeDiscussion {
+    background-color: #2196F3;
+    color: white;
+]
+
 .ProductDiscussion, .ProductDiscussionDetails {
     background-color: #FFCC80;
 }
