@@ -148,6 +148,8 @@ blockquote cite a {
 .A-team {
     position: relative;
     padding: 1em !important;
+    background-color: #795548;
+    color: white;
 }
 
 .Team-member {
@@ -176,7 +178,7 @@ blockquote cite a {
 .CodeDiscussionTitle, .CodeDiscussion {
     background-color: #2196F3;
     color: white;
-]
+}
 
 .ProductDiscussion, .ProductDiscussionDetails {
     background-color: #FFCC80;
