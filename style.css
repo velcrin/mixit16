@@ -67,6 +67,11 @@ blockquote cite a {
     color: #0000EE;
 }
 
+.Title {
+    background-color: #434343;
+    color: #EEEEEE;
+}
+
 .Title-icon {
     display: block;
     font-size: 1.2em;
@@ -143,6 +148,8 @@ blockquote cite a {
 .A-team {
     position: relative;
     padding: 1em !important;
+    background-color: #795548;
+    color: white;
 }
 
 .Team-member {
@@ -166,6 +173,11 @@ blockquote cite a {
 
 .Team-contact dd {
     margin: 0;
+}
+
+.CodeDiscussionTitle, .CodeDiscussion {
+    background-color: #2196F3;
+    color: white;
 }
 
 .ProductDiscussion, .ProductDiscussionDetails {
