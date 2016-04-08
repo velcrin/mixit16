@@ -115,6 +115,22 @@ blockquote cite a {
     margin-right: 1em;
 }
 
+.PullRequestDefinition {
+    background-color: white;
+}
+
+.PullRequestDefinition h1 {
+    margin-bottom: 0.2em;
+}
+
+.PullRequestDefinition small {
+    font-size: 60%;
+}
+
+.PullRequestDefinition-Img {
+    width: 100%;
+}
+
 .Workflow {
     background: url("images/workflow.svg") no-repeat bottom transparent;
     background-size: 100%;
