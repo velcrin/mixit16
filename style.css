@@ -146,34 +146,32 @@ blockquote cite a {
     width: 60%;
 }
 
-.A-team {
+.ThanksTeam {
+    margin-top: 4em;
     position: relative;
-    padding: 1em !important;
-    background-color: #795548;
-    color: white;
+}
+
+.ThanksTeam-Title {
+    float: left;
 }
 
 .Team-member {
-    vertical-align: middle;
     float: right;
     margin-left: .2em;
-    width: 15%;
+    width: 10%;
 }
 
 .Team-contact {
-    font-size: .8em;
+    font-size: .4em;
     margin: 0 1em;
     position: absolute;
     bottom: 0;
     right: 0;
 }
 
-.Team-contact {
-    text-align: center;
-}
-
-.Team-contact dd {
-    margin: 0;
+.Team-contact dd, .Team-contact dt {
+    margin: 0 0.2em;
+    float: right;
 }
 
 .CodeDiscussionTitle, .CodeDiscussion {
