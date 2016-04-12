@@ -132,7 +132,7 @@ blockquote cite a {
 }
 
 .Workflow {
-    background: url("images/workflow.png") no-repeat bottom #FF9800;
+    background: url("images/workflow.png") no-repeat bottom;
     background-size: 100%;
     padding: 0 !important;
 }
