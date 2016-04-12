@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'icomoon';
-    src:    url('fonts/icomoon.eot?ty2vxs');
-    src:    url('fonts/icomoon.eot?ty2vxs#iefix') format('embedded-opentype'),
+    src: url('fonts/icomoon.eot?ty2vxs');
+    src: url('fonts/icomoon.eot?ty2vxs#iefix') format('embedded-opentype'),
     url('fonts/icomoon.ttf?ty2vxs') format('truetype'),
     url('fonts/icomoon.woff?ty2vxs') format('woff'),
     url('fonts/icomoon.svg?ty2vxs#icomoon') format('svg');
@@ -27,6 +27,7 @@
 .icon-github:before {
     content: "\e901";
 }
+
 .icon-gitlab:before {
     content: "\e900";
 }
@@ -40,7 +41,7 @@ blockquote {
     border-left: 10px solid #ccc;
     margin: 1.5em 10px;
     padding: 0.5em 10px;
-    quotes: "\201C""\201D""\2018""\2019";
+    quotes: "\201C" "\201D" "\2018" "\2019";
     font-size: 0.5em;
 }
 
@@ -65,6 +66,12 @@ blockquote cite {
 
 blockquote cite a {
     color: #0000EE;
+}
+
+.Caption {
+    display: block;
+    font-size: .5em;
+    color: lightcoral;
 }
 
 .Title {
@@ -113,6 +120,11 @@ blockquote cite a {
 .Introduction-speaker {
     float: left;
     margin-right: 1em;
+}
+
+.AfterAYear-section strong {
+    color: lightcoral;
+    font-weight: normal;
 }
 
 .PullRequestDefinition {
