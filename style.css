@@ -216,6 +216,10 @@ blockquote cite a {
     margin: 0;
 }
 
+.Tools-list {
+    margin: 0;
+}
+
 .Tool {
     clear: both;
     margin-bottom: 0.5em;
